@@ -1,6 +1,6 @@
 # JMA-Earthquake-LINE-Notice
 
-JMA-Earthquake-LINE-Notice allows you to receive notifications of earthquake information from the [Japan Meteorological Agency](https://www.jma.go.jp/jma/index.html) via LINE messages.
+JMA-Earthquake-LINE-Notice can receive notifications of earthquake information from the [Japan Meteorological Agency](https://www.jma.go.jp/jma/index.html) via LINE messages.
 
 ```console
 JMA-Earthquake-LINE-Notice
