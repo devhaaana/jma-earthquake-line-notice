@@ -1,0 +1,39 @@
+{
+    "ctt": "20241202174330",
+    "eid": "20241202174055",
+    "rdt": "2024-12-02T17:43:00+09:00",
+    "ttl": "震源・震度情報",
+    "ift": "発表",
+    "ser": "1",
+    "at": "2024-12-02T17:40:00+09:00",
+    "anm": "岩手県沿岸北部",
+    "acd": "210",
+    "cod": "+40.1+141.7-70000/",
+    "mag": "3.3",
+    "maxi": "1",
+    "int": [
+        {
+            "code": "02",
+            "maxi": "1",
+            "city": [
+                {
+                    "code": "0244500",
+                    "maxi": "1"
+                }
+            ]
+        },
+        {
+            "code": "03",
+            "maxi": "1",
+            "city": [
+                {
+                    "code": "0320700",
+                    "maxi": "1"
+                }
+            ]
+        }
+    ],
+    "json": "20241202174330_20241202174055_VXSE5k_1.json",
+    "en_ttl": "Earthquake and Seismic Intensity Information",
+    "en_anm": "Northern Coast of Iwate Prefecture"
+}

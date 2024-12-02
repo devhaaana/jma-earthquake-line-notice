@@ -1,0 +1,1 @@
+# JMA-Earthquake-LINE-Notice
