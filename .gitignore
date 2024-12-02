@@ -7,5 +7,3 @@
 __pycache__/
 
 secret_keys.json
-
-JMA_quake_kr.py
