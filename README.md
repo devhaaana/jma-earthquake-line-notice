@@ -29,8 +29,8 @@ JMA-Earthquake-LINE-Notice
 
 - You can install it **locally:**
   ```console
-  $ git clone https://github.com/devhaaana/JMA-Earthquake-LINE-Notice.git
-  $ cd JMA-Earthquake-LINE-Notice
+  $ git clone https://github.com/devhaaana/jma-earthquake-line-notice.git
+  $ cd jma-earthquake-line-notice
   ```
 
 ## Usage
